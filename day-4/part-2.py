@@ -1,4 +1,3 @@
-
 grid = []
 found_count = 0
 
